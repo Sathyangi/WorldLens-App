@@ -17,8 +17,8 @@
 - **📱 Responsive**: Works on all devices
 - **✨ Animated**: 50+ smooth animations
 
----
-![image 1](https://github.com/user-attachments/assets/IMAGE_ID_1)
+![image](https://github.com/user-attachments/assets/67876a69-e428-4af7-9f37-c5a285935c34)
+
 ## 🛠️ Tech Stack
 
 **Frontend:**
