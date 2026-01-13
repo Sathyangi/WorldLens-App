@@ -58,7 +58,7 @@ World Lens transforms how users consume news by offering:
 ## 📊 Quick Stats
 
 - 70+ News Sources
-- 3 Languages
+- Advance search
 - 7 Categories
 - 12 Hot Topics
 - 100% Responsive
