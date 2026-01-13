@@ -3,8 +3,8 @@
 
 **World Lens** is a modern, multilingual news aggregation platform that provides real-time global news with an immersive viewing experience. Built with React and Node.js, it offers a clean, fast, and user-friendly interface for staying informed.
 
----
-img width="1881" height="789" alt="image" src="https://github.com/user-attachments/assets/97161013-ef1e-4d96-8e88-f8c0e2d2fa58" />
+![image](https://github.com/user-attachments/assets/97161013-ef1e-4d96-8e88-f8c0e2d2fa58)
+
 
 ## ✨ Key Features
 
