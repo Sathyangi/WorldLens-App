@@ -16,6 +16,8 @@
 - **🌙 Dark/Light Mode**: Eye-friendly themes
 - **📱 Responsive**: Works on all devices
 - **✨ Animated**: 50+ smooth animations
+- 
+![image](https://github.com/user-attachments/assets/e2374bb7-2bdb-437d-ae0a-eddf33add058)
 
 ![image](https://github.com/user-attachments/assets/67876a69-e428-4af7-9f37-c5a285935c34)
 
@@ -62,5 +64,3 @@ World Lens transforms how users consume news by offering:
 - 100% Responsive
 - < 2s Load Time
 
-
-<img width="1881" height="789" alt="image" src="https://github.com/user-attachments/assets/97161013-ef1e-4d96-8e88-f8c0e2d2fa58" />
