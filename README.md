@@ -18,7 +18,7 @@
 - **✨ Animated**: 50+ smooth animations
 
 ---
-
+[![Image 1](https://github.com/user-attachments/assets/IMAGE_ID_1)]
 ## 🛠️ Tech Stack
 
 **Frontend:**
